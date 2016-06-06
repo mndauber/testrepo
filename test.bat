@@ -1,6 +1,6 @@
 
 
-cat EOF
+cat >> EOF
 <html>
 <body>
 <h3>An example artifact</h3>
